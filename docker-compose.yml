@@ -1,0 +1,9 @@
+services:
+  test:
+    build: .
+    container_name: vinkius-connect-laravel-test
+    working_dir: /app
+    environment:
+      - PHP_INI_MEMORY_LIMIT=512M
+      - APP_ENV=testing
+      - DB_CONNECTION=testing

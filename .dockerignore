@@ -1,0 +1,8 @@
+.git
+.github
+.idea
+.vscode
+vendor
+.phpunit.cache
+Dockerfile
+docker-compose.yml
