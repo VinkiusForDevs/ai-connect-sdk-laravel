@@ -66,7 +66,7 @@ PHP **8.2+** and Laravel **10, 11, or 12** are required. The SDK uses Guzzle as 
 ### Install from Packagist
 
 ```bash
-composer require vinkius/connect-laravel
+composer require vinkius/ai-connect-sdk-laravel
 ```
 
 The service provider is auto-discovered; no manual registration is needed.

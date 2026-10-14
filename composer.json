@@ -1,5 +1,5 @@
 {
-    "name": "vinkius/connect-laravel",
+    "name": "vinkius/ai-connect-sdk-laravel",
     "description": "Laravel integration for @vinkius/connect. Give every user of your AI app their own connectors and capabilities.",
     "license": "Apache-2.0",
     "type": "library",
