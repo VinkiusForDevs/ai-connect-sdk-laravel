@@ -15,7 +15,7 @@ One SDK for user-specific tools, credentials, permissions, and execution across 
 
 ---
 
-<img src="assets/powered_futuristic_fulfillment_factory.webp" />
+<img src="assets/Futuristic_App_Fulfillment_Factory.webp" />
 
 <br >
 
